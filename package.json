@@ -1,0 +1,14 @@
+{
+  "name": "new-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vit": "^0.0.1"
+  }
+}
